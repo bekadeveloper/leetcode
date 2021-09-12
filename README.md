@@ -1,8 +1,6 @@
 # Leetcode Solutions in Swift
 
-<br>
-
-| #      | Title  | Solution |
+<!-- | #      | Title  | Solution |
 | :----- | :----- | :------- |
 | `709`  | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [toLowercase.swift](strings/toLowercase.swift) |
 | `771`  | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [jewelsAndStones.swift](strings/jewelsAndStones.swift) |
@@ -23,9 +21,7 @@
 | `1678` | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation) | [goalParserInterpret.swift](strings/goalParserInterpret.swift) |
 | `1720` | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array) | [ decodeXORedArray.swift](arrays/decodeXORedArray.swift) |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule) | [countMatches.swift](arrays/countMatches.swift) |
-| `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [buildArray.swift](arrays/buildArray.swift) |
-
-<br>
+| `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [buildArray.swift](arrays/buildArray.swift) | -->
 
 #### Useful links:
 - [DS & Algo in Swift](https://github.com/bekadeveloper/data-structures-algorithms) repository.
@@ -33,7 +29,5 @@
 - [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) repository.
 - [Data Structures and Algorithms in Swift]() book by raywenderlich team.
 
-<br>
-
 **Feel free to contribute! <br>
-  This repo is yours ❤️**
+This repo is yours ❤️**
